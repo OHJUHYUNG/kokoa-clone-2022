@@ -52,3 +52,10 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__esclamation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: tomato;
+}
